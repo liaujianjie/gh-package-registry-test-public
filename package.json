@@ -1,0 +1,7 @@
+{
+  "name": "gh-package-registry-test-public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Liau Jian Jie",
+  "license": "MIT"
+}
